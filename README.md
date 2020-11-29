@@ -1,8 +1,9 @@
 ### Hello, I'm HB9 👋
 
 - 🔭 I’m currently working on Web Developer
-- 🌱 I’m currently learning Java, Spring, Redis, NOSQL, GIT, AWS...etc
+- 🌱 I’m currently learning java, spring, datastructure...etc
 - 📫 How to reach me: Email - beammeupplzz@gmail.com
+- 🏚 Plase visit my personal wiki - hbbook.netlify.app
 <!-- - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 - 👯 I’m looking to collaborate on ... 

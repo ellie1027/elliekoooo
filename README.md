@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Web Developer
 - 🌱 I’m currently learning java, spring, datastructure...etc
 - 📫 How to reach me: Email - beammeupplzz@gmail.com
-- 🏚 Plase visit my personal wiki - hbbook.netlify.app
+- 🏚 Plase visit my personal wiki - [hbbook.netlify.app](hbbook.netlify.app)
 <!-- - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 - 👯 I’m looking to collaborate on ... 

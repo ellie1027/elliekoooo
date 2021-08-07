@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Web Developer
 - 🌱 I’m currently learning java, spring, datastructure...etc
-- 📫 How to reach me: Email - beammeupplzz@gmail.com
+- 📫 How to reach me: Email - elliekoooo@gmail.com
 - 🏚 You can see all I studying in here - [https://elliekoooo.github.io/](https://elliekoooo.github.io/)
 <!-- - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...

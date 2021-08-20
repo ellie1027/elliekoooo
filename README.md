@@ -1,4 +1,4 @@
-### Hello, I'm HB9 👋
+### Hello, I'm elliekoooo 👋
 
 - 🔭 I’m currently working on Web Developer
 - 🌱 I’m currently learning java, spring, datastructure...etc
